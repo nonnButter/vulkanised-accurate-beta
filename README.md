@@ -1,4 +1,4 @@
-![.](https://cdn.modrinth.com/data/cached_images/954cd280f1c9646bdfa78166a2aeee43d378f5c4.png)
+![.](images/logo.png)
 
 This modpack transforms Minecraft 1.21.1 with Fabric into Minecraft Beta 1.7_01
 
