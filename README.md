@@ -10,6 +10,6 @@ Link to Pretty Accurate Beta: https://github.com/nonnButter/pretty-accurate-beta
 
 Link to Modrinth Version: https://modrinth.com/modpack/vulkanised-accurate-beta
 
-Difference between [PAB](https://modrinth.com/modpack/pretty-accurate-beta](https://github.com/nonnButter/pretty-accurate-beta) and VAB
+Difference between [PAB](https://github.com/nonnButter/pretty-accurate-beta) and VAB
 -
 ![table](images/vtable.png)
