@@ -10,7 +10,7 @@ Don't forget that this modpack is an unofficial heavily edited version of [1:1 B
 
 Link to Pretty Accurate Beta: https://github.com/nonnButter/pretty-accurate-beta
 
-Link to Modrinth Version: https://modrinth.com/modpack/vulkanised-accurate-beta
+~~Link to Modrinth Version: https://modrinth.com/modpack/vulkanised-accurate-beta~~
 
 Difference between [PAB](https://github.com/nonnButter/pretty-accurate-beta) and VAB
 -
