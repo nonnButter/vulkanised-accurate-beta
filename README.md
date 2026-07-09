@@ -2,6 +2,8 @@
 
 ### Vulkanised Accurate Beta is currently only on GitHub because of some copyright issues on Modrinth
 
+# VAB 0.1.1 and up now require Java 25 because of C2ME
+
 This modpack transforms Minecraft 1.21.1 with Fabric into Minecraft Beta 1.7_01
 
 It also has ViaFabricPlus so you can even join old Beta Servers. Isn't that great?
